@@ -1,8 +1,8 @@
-Ch? d?i v?i mysql server cài pass là 12345678
-Vào mysql workbench drop database nhahang di
-Open file fileSQL.sql >> excute nó
-Vào thu m?c dist run file Ql_nhahang
-Ðang nhap voi  tk :
-admin : 1
-u1 : 1
-u2 : 2
+If you use MySQL Server, set password as 12345678
+If you use MySQL Workbench, then following next steps:
+step 1: drop database nhahang
+step 2: open folder dist then run app ql_nhahang.jar
+step 3: log in account
+        username : admin   password:1 
+        username : 1       password:1 
+        username : 2       password:2 
